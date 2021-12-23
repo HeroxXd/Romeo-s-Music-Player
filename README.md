@@ -1,1 +1,1 @@
-[![DEPLOY](https://heroku.com/deploy?template=https://github.com/Romeo99xD/Romeo-s-Music-Player)]
+[![DEPLOY](HTTPS://WWW.HEROKUCDN.COM/DEPLOY/BUTTON.SVG)](HTTPS://HEROKU.COM/DEPLOY?TEMPLATE=https://github.com/Romeo99xD/Romeo-s-Music-Player)
